@@ -1,0 +1,17 @@
+{
+  "name": "simple_api",
+  "version": "1.0.0",
+  "description": "Simple REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "API"
+  ],
+  "author": "Adefeyitimi Gbolahan Adeyeloja",
+  "license": "ISC"
+}
